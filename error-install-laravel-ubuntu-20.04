@@ -1,0 +1,7 @@
+# Jika error saat create project laravel menggunakan composer dengan php versi 7.* maka lakukan perintah dibawah
+
+sudo apt-get install php7.*-gmp
+sudo apt-get install php7.*-xml
+sudo apt-get install php7.*-mbstring
+
+#setelah itu silahkan dicoba kembali untuk melakukan command composer install
