@@ -1,0 +1,1 @@
+git clone -b v6.20.1 https://github.com/laravel/laravel.git laravel-app
