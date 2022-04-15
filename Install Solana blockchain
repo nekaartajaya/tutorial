@@ -1,0 +1,5 @@
+guide : https://project-serum.github.io/anchor/getting-started/installation.html#install-anchor
+
+#note for windows
+please install gcc first, https://www.msys2.org/
+then add PATH in environment varibale to C:\msys64\mingw64\bin\ for 64bit
